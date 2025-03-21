@@ -272,7 +272,7 @@ body{
     position: relative;
     margin-top: 60px;
     margin-bottom: 125px;
-    overflow: hidden;
+/*     overflow: hidden; */
 }
 .lotto-section {
     width: 100%;
